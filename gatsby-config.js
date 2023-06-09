@@ -9,7 +9,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    // title: `Gatsby Starter Blog`,
+    title: `หมอบอลคน pick ดวง`,
     author: {
       name: `Kyle Mathews`,
       summary: `who lives and works in San Francisco building useful things.`,
